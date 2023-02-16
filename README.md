@@ -7,3 +7,7 @@ Script templates to automate Junos tasks
 
 ## reboot.py
     Reboots devices in a given time, or at a given time
+
+## JTAC.py
+    Collects RSI, logs, and uploads them to an FTP server
+    Useful for cases with JTAC
